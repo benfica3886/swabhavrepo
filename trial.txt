@@ -1,0 +1,5 @@
+git inti -- to initilize repo
+git add . -- to add files
+git commit -- to comit
+git remote -v -- to check file on remote folder
+git push (name) -- to push it to remote

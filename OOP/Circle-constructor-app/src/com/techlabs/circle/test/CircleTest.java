@@ -9,8 +9,9 @@ public class CircleTest {
 		 circ.setFillColour("blue");
 		 float ans = new Circle().calculateArea();
 		 System.out.println(ans);
-		 printAll(new Circle());
+		 //printAll(new Circle());
 		 //printAll(circ);
+		 printAll(new Circle(4, "orange"));
 		 
 	}
 	
@@ -19,7 +20,6 @@ public class CircleTest {
 		 System.out.println("Area of Circle="+ c.calculateArea());
 		 System.out.println("Perimeter of Circle="+ c.perimeter());
 		 System.out.println("Shape Colour = "+ c.getFillColour());
-		 
 		}
 }
  

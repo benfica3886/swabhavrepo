@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>info.properties</comment>
+<entry key="name">abc</entry>
+<entry key="Location">Mumbai</entry>
+</properties>

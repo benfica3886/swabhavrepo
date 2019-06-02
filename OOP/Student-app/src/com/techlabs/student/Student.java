@@ -11,6 +11,11 @@ public class Student {
 		cgpa = newcgpa;
 		System.out.println("object created");
 	}
+
+	public Student (String newname, int newroll) {
+		this(newname, newroll, 5);
+		System.out.println("constructor 2");
+	}
 	
 	public String getName() {
 		return name;

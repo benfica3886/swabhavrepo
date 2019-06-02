@@ -1,11 +1,11 @@
 package com.techlabs.thiskeyword;
 
 public class ThisKeyword {
-	String name = "naaaaaaame";
+	String name;
 
 	public ThisKeyword() {
 		this("Thiskeyword");
-		name = "benfica";
+		 name = "benfica";
 	}
 
 	public ThisKeyword(String newname) {
